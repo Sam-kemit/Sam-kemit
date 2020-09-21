@@ -6,4 +6,4 @@ I am Software Engineer currently in Paris, France. I write code and love open so
 
 ## :coffee: Let's get in touch
 - Twitter: [twitter.com/SamuelKueta](https://twitter.com/SamuelKueta)
-- LinkedIn: [linkedin.com/in/samuel-kueta-930a92112](www.linkedin.com/in/samuel-kueta-930a92112)
+- LinkedIn: [linkedin.com/in/samuel-kueta](https://www.linkedin.com/in/samuel-kueta-930a92112)
