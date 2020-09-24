@@ -1,4 +1,4 @@
-# Hi, I'm Samuel :fire: :black_heart:
+# Hi :fire: :black_heart:
 
 ![Kemit avatar](photo-github.png)
 
